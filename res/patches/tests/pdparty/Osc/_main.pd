@@ -62,4 +62,4 @@ pdparty;
 #X restore 160 207 pd guts;
 #X text 12 267 to communicate with this scene;
 #X text 12 284 don't forget to turn on OSC;
-#X text 12 248 run tests/osc-test.pd on your computer;
+#X text 12 248 run \doc\composerpack\osc on your computer;
